@@ -16,6 +16,6 @@
 ## pip install bs4 
 ## pip install rich
 ## cd
-## git clone https://github.com/James404-cyber/JuttBadshah.git
-## cd JuttBadshah
+## git clone https://github.com/Red-mafia-404/JuttBypass.git
+## cd JuttBypass
 ## python main.py
